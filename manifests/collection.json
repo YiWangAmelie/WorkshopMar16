@@ -1,0 +1,13 @@
+{
+  "id" : "https://YiWangAmelie.github.io/WorkshopMar16/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in YiWangAmelie/WorkshopMar16 project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : null,
+    "@id" : null,
+    "label" : null
+  } ]
+}
